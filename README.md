@@ -1,1 +1,1 @@
-Repo used to store my LeetCode problem solutions.
+Repo used to store my solutions of LeetCode's problems.
